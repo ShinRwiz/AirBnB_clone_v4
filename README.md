@@ -151,7 +151,7 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 
 ## Bugs
-No known bugs at this time . 
+No known bugs at this time. 
 
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
@@ -161,4 +161,4 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.. 
